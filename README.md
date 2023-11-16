@@ -49,6 +49,4 @@ The `test-images` directory contains three sample images that showcase the resul
 
 ![apple image segmenetation](https://github.com/nsimona/cuda-threshold/blob/main/test-images/results/apple.gif)
 
-![horse image segmenetation](https://github.com/nsimona/cuda-threshold/blob/main/test-images/results/horse.gif)
-
 ![brain image segmenetation](https://github.com/nsimona/cuda-threshold/blob/main/test-images/results/brain.gif)
